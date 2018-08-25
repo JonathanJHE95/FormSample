@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FormSample</string>
+
+    <string name="name">Nombre:</string>
+    <string name="lastName">Apellido:</string>
+    <string name="RFC">RFC:</string>
+    <string name="cellPhone">Celular:</string>
+    <string name="address">Direccion:</string>
+    <string name="number">Num. Ext.:</string>
+    <string name="email">Email:</string>
+    <string name="aptitude">Aptitudes:</string>
+    <string name="sex">Sexo:</string>
+
+    <string-array name="sexo">
+        <item>Seleccionar</item>
+        <item>Hombre</item>
+        <item>Mujer</item>
+    </string-array>
+
+    <string name="Success">Informacion capturada</string>
+    <string name="failure">Debe llenar todos los campos</string>
+</resources>
